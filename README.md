@@ -25,3 +25,4 @@ Profit: Net profit (in billions)
 Assets: Total assets owned (in billions)
 
 Market Value: Company’s market valuation (in billions)
+ 
